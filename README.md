@@ -4,7 +4,7 @@ News API
 
 Kotlin
 
-Dagger
+Dagger2
 
 Retrofit
 
