@@ -3,9 +3,13 @@
 News API
 
 Kotlin
+
 Dagger
+
 Retrofit
-glide
+
+Glide
+
 Room
 
 ![](mvvmvid1.gif)
