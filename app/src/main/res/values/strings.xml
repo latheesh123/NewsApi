@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News-API</string>
+    <string name="str_test_date">10/09/2019</string>
+    <string name="news_image">news</string>
+</resources>
