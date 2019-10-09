@@ -2,4 +2,4 @@
 
 News API
 
-![](mvvmvid.gif)
+
