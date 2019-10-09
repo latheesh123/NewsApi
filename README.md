@@ -2,8 +2,6 @@
 
 News API
 
-Kotlin
-
 Dagger2
 
 Retrofit
